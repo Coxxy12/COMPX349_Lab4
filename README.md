@@ -77,9 +77,17 @@ fix the remaining memory issues which I believed to have caused the results belo
 ***
 ***Task One***
 
+
+https://user-images.githubusercontent.com/109124700/201029656-021d562f-9caa-4152-9c78-d15aa2067dd7.mp4
+
+
 * As you can see when you run the program, the leds blinks as it goes around the edge.
 
 ***Task Two***
+
+
+Uploading taskTwo.mp4…
+
 
 * As you can see when you run the program, the leds move around as you tilt the micro:bit.
 
